@@ -1,0 +1,47 @@
+body{
+    background-color:lightblue;
+}
+
+ul{
+    list-style: none;
+    background-color: rgb(21, 239,21);
+    width: 300px;
+    padding: 10px;
+}
+
+.Items_nav{
+    display: inline;
+    padding: 10px;
+}
+
+h1{
+    background-image:url(./Imagenes/freepik__upload__31839.jpeg) ;
+background-size: cover;
+background-position: 50%;
+background-attachment: fixed;
+padding:80px 20px ;
+height: 500px;
+text-align: center;
+font-size: 4cm;
+text-transform: uppercase;
+text-shadow: 5px 5px whitesmoke;
+}
+
+.Tarjeta{
+    max-width: 300px;
+    margin: 20px auto;
+    border: 2px solid darkgreen;
+    box-shadow:5px 5px 10px blue, -5px -5px 10px pink ;   
+}
+.img_tarjeta{
+    width: 100%;
+}
+ *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family: 'Raleway', 'Times New Roman', Times, serif;
+ }
+ .TextoResaltado{
+    background-color: blueviolet;
+ }
